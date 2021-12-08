@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Scratch and Win</string>
+
+    <string name="trophy">Trophy icon</string>
+    <string name="you_have_not_won">You haven\'t won</string>
+    <string name="scratch_effect">Scratch effect</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+
+    <string name="scratch_brush_size">Scratch brush size</string>
+    <string name="reveal_full_layout_at">Reveal full layout at %</string>
+    <string name="reset">Reset</string>
+    <string name="reveal">Reveal</string>
+    <string name="resetting_view_since_reveal_percent_was_changed">Resetting view since reveal percent setting was changed</string>
+
+    <string name="diamond">Diamond</string>
+    <string name="platinum">Platinum</string>
+    <string name="gold">Gold</string>
+    <string name="silver">Silver</string>
+    <string name="daily">Daily</string>
+    <string name="cards">Cards</string>
+    <string name="range">Range</string>
+    <string name="balance">Balance: %1$d</string>
+    <string name="add_to_balance">Add To Balance</string>
+    <string name="you_ve_won_0">You\'ve Won 0</string>
+    <string name="no_more_card">No More Cards Left For Today</string>
+
+    <string name="redeem_now">Redeem Now</string>
+    <string name="previous_transactions">Previous Transactions</string>
+    <string name="paytm">PayTm</string>
+    <string name="upi">UPI</string>
+    <string name="error_enter_payment_details">Enter Valid Payment Details</string>
+    <string name="txt_remaining_cards">Remaining: </string>
+
+    <string name="network_error_msg">No Internet Connection</string>
+
+    <string name="permission_reason">Permission necessary for real time and date</string>
+    <string name="earn_and_redeem">Earn and Redeem</string>
+
+    <string name="ph_coins">Coins: %1$d</string>
+    <string name="ph_rupee_balance">Rupee Balance: %1$.2f ₹</string>
+    <string name="int_empty_string">%1$d</string>
+    <string name="float_empty_string">%1$.2f ₹</string>
+
+    <string name="coins">Coins: </string>
+    <string name="rupees">Rupees:</string>
+    <string name="status">Status:</string>
+    <string name="method">Method:</string>
+    <string name="paid_date">Paid Date:</string>
+    <string name="details">Details:</string>
+
+    <string name="pending">Pending</string>
+    <string name="paid">Paid</string>
+
+    <string name="lottery_amount">%1d</string>
+    <string name="request_permission_message">You need to allow access to both the permissions</string>
+    <string name="request_sent">Request Sent</string>
+    <string name="error_occurred">Error Occurred</string>
+    <string name="not_paid_yet">Not Paid Yet</string>
+
+    <string name="cards_left">"You Have %1$d Cards Left"</string>
+    <string name="back_button">Back Button</string>
+    <string name="money_bag">Money Bag</string>
+    <string name="yolo">Earn Money Because YOLO</string>
+    <string name="you_just_won">You Just Won</string>
+    <string name="come_back_tomorrow">Come Back Tomorrow</string>
+    <string name="redeem">Redeem</string>
+    <string name="rewards">Rewards</string>
+    <string name="cancel">Cancel</string>
+    <string name="transaction">Transaction</string>
+    <string name="no_minimum_balance">Minimum Coins required is %1$d</string>
+    <string name="s_no">S. No.</string>
+    <string name="coins_title">Coins</string>
+    <string name="status_title">Status</string>
+
+    <string name="share">Share &amp;</string>
+    <string name="rate">Rate &amp;</string>
+    <string name="win">Win</string>
+    <string name="privacy">Privacy</string>
+    <string name="policy">Policy</string>
+    <string name="more">More</string>
+    <string name="apps">Apps</string>
+
+</resources>

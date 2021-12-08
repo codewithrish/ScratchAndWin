@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="270dp"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/redeem"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        android:layout_gravity="center_horizontal"
+        android:textColor="@android:color/black"/>
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <RadioButton
+            android:id="@+id/rb_paytm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/paytm"/>
+        <RadioButton
+            android:id="@+id/rb_upi"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/upi"/>
+    </RadioGroup>
+
+    <EditText
+        android:id="@+id/enter_details"
+        android:layout_width="match_parent"
+        android:layout_weight="1"
+        android:maxLines="1"
+        android:singleLine="true"
+        android:layout_height="0dp"
+        android:importantForAutofill="no"
+        android:inputType="text"
+        tools:ignore="LabelFor" />
+
+    <TextView
+        android:id="@+id/redeem_message"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/cancelRdm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/cancel"
+            android:layout_margin="8dp"
+            tools:ignore="ButtonStyle" />
+        <Button
+            android:id="@+id/redeemRdm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/redeem"
+            android:layout_margin="8dp"
+            tools:ignore="ButtonStyle" />
+
+    </LinearLayout>
+</LinearLayout>

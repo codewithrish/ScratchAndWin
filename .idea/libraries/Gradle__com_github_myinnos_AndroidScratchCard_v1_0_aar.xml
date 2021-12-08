@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.myinnos:AndroidScratchCard:v1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-3/7e5bf7c5277c81b0d68f3d075828df4d/transformed/jetified-AndroidScratchCard-v1.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7e5bf7c5277c81b0d68f3d075828df4d/transformed/jetified-AndroidScratchCard-v1.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-3/7e5bf7c5277c81b0d68f3d075828df4d/transformed/jetified-AndroidScratchCard-v1.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.myinnos/AndroidScratchCard/v1.0/7199f6d9a0579e60a6075920a3779b47050dcccc/AndroidScratchCard-v1.0-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.myinnos/AndroidScratchCard/v1.0/987d2cd30a2be695c2da7039f31084658e519449/AndroidScratchCard-v1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

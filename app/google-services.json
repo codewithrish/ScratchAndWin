@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "480060667980",
+    "project_id": "scratch-and-win-18039",
+    "storage_bucket": "scratch-and-win-18039.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480060667980:android:6aabb03f184513e2c19ce9",
+        "android_client_info": {
+          "package_name": "com.gamingworld.scratchandwin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480060667980-9k0dkmm16p636b7pmf6stpufngfkdd6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ26xeyVut9KMRA34sxapr53DTQ8LFaMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480060667980-9k0dkmm16p636b7pmf6stpufngfkdd6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

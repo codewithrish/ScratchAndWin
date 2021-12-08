@@ -1,0 +1,8 @@
+<in.myinnos.androidscratchcard.ScratchCard android:id="@+id/scratchCard"
+    android:layout_width="240dp"
+    android:layout_height="240dp"
+    android:layout_centerInParent="true"
+    android:visibility="visible"
+    app:scratchDrawable="@drawable/scratch"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android" />
